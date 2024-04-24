@@ -99,8 +99,8 @@ block
 ||video.sibnet.ru^$empty
 ||sibnet.ru^$important
 ||video.sibnet.ru^$important
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 info.sibnet.ru
+0.0.0.0 www.info.sibnet.ru
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
