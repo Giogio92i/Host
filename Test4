@@ -97,6 +97,8 @@ block
 ||sibnet.ru^$empty
 ||video.sibnet.ru^$document
 ||video.sibnet.ru^$empty
+||sibnet.ru^$important
+||video.sibnet.ru^$important
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
