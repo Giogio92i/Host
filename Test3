@@ -93,6 +93,10 @@ block
 ||video.sibnet.ru^
 0.0.0.0 ||www.sibnet.ru^
 0.0.0.0 90.189.193.210
+||sibnet.ru^$document
+||sibnet.ru^$empty
+||video.sibnet.ru^$document
+||video.sibnet.ru^$empty
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
