@@ -8,7 +8,7 @@ Block
 0.0.0.0 www.twitter.com
 0.0.0.0 www.x.com
 0.0.0.0 www.tiktok.com
-0.0.0.0 google.com
+0.0.0.0 
 0.0.0.0 www.instagram.com
 0.0.0.0 www.threads.net
 0.0.0.0 www.linkedin.com
