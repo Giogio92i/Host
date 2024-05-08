@@ -89,7 +89,7 @@ Block
 0.0.0.0 www.vk.com  
 0.0.0.0 ||sibnet.ru^  
 0.0.0.0 ||video.sibnet.ru^  
-0.0.0.0 www.accounts.google.com  
+0.0.0.0 accounts.google.com  
 0.0.0.0 google.com/forms 
 0.0.0.0 policies.google.com
 0.0.0.0 groups.google.com  
