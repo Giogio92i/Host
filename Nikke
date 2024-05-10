@@ -134,10 +134,10 @@ Block
 0.0.0.0 fr.m.wikitionary.org
 0.0.0.0 www.m.wikitionary.org
 0.0.0.0 www.fr.m.wikitionary.org
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
+0.0.0.0 www.polygloss.app
+0.0.0.0 polygloss.app
+0.0.0.0 polygloss.app/terms
+0.0.0.0 polygloss.app/privacy
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
