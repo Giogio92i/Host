@@ -126,6 +126,7 @@ Block
 0.0.0.0 ankiweb.net/account/privacy
 ||ankiweb.net/shared/decks^
 ||www.ankiweb.net/shared/decks^
+0.0.0.0 www.ankiweb.net
 0.0.0.0 https://ankiweb.net/shared/decks
 0.0.0.0 www.bettersleep.com
 0.0.0.0 bettersleep.com
