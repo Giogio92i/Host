@@ -124,8 +124,8 @@ Block
 0.0.0.0 www.docs.ankiweb.net
 0.0.0.0 ankiweb.net/account/terms
 0.0.0.0 ankiweb.net/account/privacy
-0.0.0.0 ||ankiweb.net/shared/decks^
-0.0.0.0 ||www.ankiweb.net/shared/decks^
+||ankiweb.net/shared/decks^
+||www.ankiweb.net/shared/decks^
 0.0.0.0 www.bettersleep.com
 0.0.0.0 bettersleep.com
 0.0.0.0 www.wiktionary.org
