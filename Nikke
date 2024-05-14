@@ -102,6 +102,7 @@ Block
 0.0.0.0 www.accubattery.zendesk.com
 0.0.0.0 www.shazam.com  
 0.0.0.0 www.liteapks.com
+0.0.0.0 liteapks.com
 0.0.0.0 update.liteapks.com
 0.0.0.0 www.fmod.com
 0.0.0.0 www.spotify.com
@@ -170,11 +171,11 @@ Block
 0.0.0.0 duolingo-data.s3.amazonaws.com
 0.0.0.0 adr.org
 0.0.0.0 www.adr.org
-0.0.0.0 duolingo.com
+0.0.0.0 
 0.0.0.0 excess.duolingo.com
 0.0.0.0 zombie.duolingo.com
 0.0.0.0 brb.duolingo.com
-0.0.0.0  
+0.0.0.0 
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
