@@ -191,6 +191,9 @@ Block
 0.0.0.0 deepl.com/en/login
 0.0.0.0 deepl.com/login
 0.0.0.0 deepl.com/fr/login
+0.0.0.0 deepl.com/en/signup
+0.0.0.0 deepl.com/signup
+0.0.0.0 deepl.com/fr/signup
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
