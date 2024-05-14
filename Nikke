@@ -171,7 +171,7 @@ Block
 0.0.0.0 duolingo-data.s3.amazonaws.com
 0.0.0.0 adr.org
 0.0.0.0 www.adr.org
-0.0.0.0 
+0.0.0.0 duolingo.com
 0.0.0.0 excess.duolingo.com
 0.0.0.0 zombie.duolingo.com
 0.0.0.0 brb.duolingo.com
@@ -188,7 +188,7 @@ Block
 0.0.0.0 brilliant.org/careers
 0.0.0.0 brilliant.org/testimonials
 0.0.0.0 brilliant.org/ccpa-policy
-0.0.0.0  
+0.0.0.0 
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
