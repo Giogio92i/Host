@@ -274,13 +274,14 @@ Block
 0.0.0.0 www.designrush.com
 0.0.0.0 clutch.com
 0.0.0.0 www.clutch.com
-0.0.0.0 www.moises.ai
-0.0.0.0 moises.ai
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
+0.0.0.0 help.moises.ai
+0.0.0.0 www.help.moises.ai
+0.0.0.0 moises.ai/privacy
+0.0.0.0 moises.ai/terms
+0.0.0.0 www-new.moises.ai
+0.0.0.0 www.www-new.moises.ai
+0.0.0.0 youtube.com/MoisesAi
+0.0.0.0 youtube.com/@MoisesAi
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
