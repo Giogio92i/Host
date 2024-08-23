@@ -139,7 +139,7 @@ Block
 0.0.0.0 www.knesset.gov.il
 0.0.0.0 perfectcorp.com
 0.0.0.0 www.perfectcorp.com
-0.0.0.0  
+0.0.0.0 support.apple.com
 0.0.0.0 pixabay.com
 0.0.0.0 www.pixabay.com
 0.0.0.0 unsplash.com
@@ -264,14 +264,14 @@ Block
 0.0.0.0 www.designrush.com
 0.0.0.0 clutch.com
 0.0.0.0 www.clutch.com
-0.0.0.0 help.moises.ai
-0.0.0.0 www.help.moises.ai
-0.0.0.0 moises.ai/privacy
-0.0.0.0 moises.ai/terms
-0.0.0.0 www-new.moises.ai
-0.0.0.0 www.www-new.moises.ai
-0.0.0.0 youtube.com/MoisesAi
-0.0.0.0 youtube.com/@MoisesAi
+0.0.0.0 hcaptcha.com
+0.0.0.0 www.hcaptcha.com
+0.0.0.0 gtarcade.com
+0.0.0.0 www.gtarcade.com
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 0.0.0.0 
 0.0.0.0 
 0.0.0.0  
