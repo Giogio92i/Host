@@ -75,10 +75,10 @@ Block
 0.0.0.0 www.pay.onstove.com  
 0.0.0.0 anime-sama.fr/catalogue  
 0.0.0.0 www.anime-sama.fr/catalogue  
-0.0.0.0 www.sibnet.ru  
-0.0.0.0 sibnet.ru/video  
-0.0.0.0 video.sibnet.ru  
-0.0.0.0 video.sibnet.ru  
+0.0.0.0 
+0.0.0.0 
+0.0.0.0  
+0.0.0.0  
 0.0.0.0 www.greattafsirs.com  
 0.0.0.0 greattafsirs.com  
 0.0.0.0 apps.apple.com  
@@ -87,8 +87,8 @@ Block
 0.0.0.0 www.m.vk.com  
 0.0.0.0 vk.com  
 0.0.0.0 www.vk.com  
-0.0.0.0 ||sibnet.ru^  
-0.0.0.0 ||video.sibnet.ru^  
+0.0.0.0  
+0.0.0.0 
 0.0.0.0 accounts.google.com  
 0.0.0.0 google.com/forms 
 0.0.0.0 policies.google.com
