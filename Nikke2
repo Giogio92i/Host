@@ -89,19 +89,207 @@ Block
 0.0.0.0 www.vk.com  
 0.0.0.0 ||sibnet.ru^  
 0.0.0.0 ||video.sibnet.ru^  
-0.0.0.0 www.accounts.google.com  
+0.0.0.0 accounts.google.com  
 0.0.0.0 google.com/forms 
 0.0.0.0 policies.google.com
 0.0.0.0 groups.google.com  
 0.0.0.0 support.google.com  
 0.0.0.0 docs.google.com  
 0.0.0.0 google.com/drive  
-0.0.0.0 www.accubatteryapp.com  
+0.0.0.0 google.com/analytics
+0.0.0.0 www.accubatteryapp.com
+0.0.0.0 accubattery.zendesk.com
+0.0.0.0 www.accubattery.zendesk.com
 0.0.0.0 www.shazam.com  
 0.0.0.0 www.liteapks.com
-0.0.0.0 www.update.liteapks.com
+0.0.0.0 liteapks.com
+0.0.0.0 update.liteapks.com
 0.0.0.0 www.fmod.com
-0.0.0.0 www.google.com
+0.0.0.0 www.spotify.com
+0.0.0.0 support.spotify.com
+0.0.0.0 www.support.spotify.com
+0.0.0.0 aethersx2.com
+0.0.0.0 www.aethersx2.com
+0.0.0.0 creativecommons.org
+0.0.0.0 www.creativecommons.org
+0.0.0.0 play.google.com
+0.0.0.0 www.chess.com
+0.0.0.0 chess.com
+0.0.0.0 support.chess.com
+0.0.0.0 discord.com
+0.0.0.0 ankiweb.net
+0.0.0.0 www.bettersleep.com
+0.0.0.0 bettersleep.com
+0.0.0.0 www.wiktionary.org
+0.0.0.0 wiktionary.org
+0.0.0.0 m.wiktionary.org
+0.0.0.0 fr.m.wiktionary.org
+0.0.0.0 www.m.wiktionary.org
+0.0.0.0 www.fr.m.wiktionary.org
+0.0.0.0 www.polygloss.app
+0.0.0.0 polygloss.app
+0.0.0.0 polygloss.app/terms
+0.0.0.0 polygloss.app/privacy
+0.0.0.0 youtube.com/@NIKKEEN
+0.0.0.0 capcut.com
+0.0.0.0 www.capcut.com
+0.0.0.0 gov.il
+0.0.0.0 www.gov.il
+0.0.0.0 knesset.gov.il
+0.0.0.0 www.knesset.gov.il
+0.0.0.0 perfectcorp.com
+0.0.0.0 www.perfectcorp.com
+0.0.0.0 support.apple.com
+0.0.0.0 pixabay.com
+0.0.0.0 www.pixabay.com
+0.0.0.0 unsplash.com
+0.0.0.0 www.unsplash.com
+0.0.0.0 freepik.com
+0.0.0.0 www.freepik.com
+0.0.0.0 vecteezy.com
+0.0.0.0 www.vecteezy.com
+0.0.0.0 shutterstock.com
+0.0.0.0 www.shutterstock.com
+0.0.0.0 istockphoto.com
+0.0.0.0 www.istockphoto.com
+0.0.0.0 pexels.com
+0.0.0.0 www.pexels.com
+0.0.0.0 faqs.ankiweb.net
+0.0.0.0 apps.ankiweb.net
+0.0.0.0 docs.ankiweb.net
+0.0.0.0 languagedrops.com
+0.0.0.0 www.languagedrops.com
+0.0.0.0 news.microsoft.com
+0.0.0.0 microsoft.com
+0.0.0.0 www.microsoft.com
+0.0.0.0 news.google.com
+0.0.0.0 adr.org
+0.0.0.0 www.adr.org
+0.0.0.0 mathtutordvd.com
+0.0.0.0 www.mathtutordvd.com
+0.0.0.0 mathandascience.com
+0.0.0.0 www.mathandascience.com
+0.0.0.0 www.50languages.com
+0.0.0.0 50languages.com
+0.0.0.0 brilliant.org/terms-of-use
+0.0.0.0 brilliant.org/help
+0.0.0.0 brilliant.org/privacy
+0.0.0.0 brilliant.org/about
+0.0.0.0 brilliant.org/careers
+0.0.0.0 brilliant.org/testimonials
+0.0.0.0 brilliant.org/ccpa-policy
+0.0.0.0 deepl.com/en/login
+0.0.0.0 deepl.com/login
+0.0.0.0 deepl.com/fr/login
+0.0.0.0 deepl.com/en/signup
+0.0.0.0 deepl.com/signup
+0.0.0.0 deepl.com/fr/signup
+0.0.0.0 deepl.com/en/signup?cta=free-doctrans-signup
+0.0.0.0 deepl.com/signup?cta=free-doctrans-signup
+0.0.0.0 deepl.com/fr/signup?cta=free-doctrans-signup
+0.0.0.0 steam.com
+0.0.0.0 www.steam.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 www.steamcommunity.com
+0.0.0.0 www.store.steampowered.com
+0.0.0.0 
+0.0.0.0 wutheringwaves.kurogames.com
+0.0.0.0 github.com
+0.0.0.0 www.github.com
+0.0.0.0 discord.gg
+0.0.0.0 www.discord.gg
+0.0.0.0 mega.nz
+0.0.0.0 www.mega.nz
+0.0.0.0 mega.io
+0.0.0.0 www.mega.io
+0.0.0.0 adobe.com
+0.0.0.0 www.adobe.com
+0.0.0.0 helpx.adobe.com
+0.0.0.0 prilaga.com
+0.0.0.0 www.prilaga.com
+0.0.0.0 90min.com
+0.0.0.0 www.90min.com
+0.0.0.0 flashcore.com
+0.0.0.0 www.flashscore.com
+0.0.0.0 livescore.in
+0.0.0.0 www.livescore.in
+0.0.0.0 www.livescorebet.com
+0.0.0.0 help.livescorebet.com
+0.0.0.0 livescore.com
+0.0.0.0 www.livescore.com
+0.0.0.0 help.livescore.com
+0.0.0.0 helproi.livescorebet.com
+0.0.0.0 youtube.com/@NIKKEEN
+0.0.0.0 youtube.com/channel/NIKKEEN
+0.0.0.0 youtube.com/user/NIKKEEN
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 networkadvertising.org
+0.0.0.0 www.networkadvertising.org
+0.0.0.0 aboutads.info
+0.0.0.0 www.aboutads.info
+0.0.0.0 youronlinechoices.eu
+0.0.0.0 www.youronlinechoices.eu
+0.0.0.0 youradchoices.com
+0.0.0.0 www.youradchoices.com
+0.0.0.0 digitaladvertisingalliance.org
+0.0.0.0 www.digitaladvertisingalliance.org
+0.0.0.0 edaa.eu
+0.0.0.0 www.edaa.eu
+0.0.0.0 ico.org.uk
+0.0.0.0 www.ico.org
+0.0.0.0 gra.gi
+0.0.0.0 www.gra.gi
+0.0.0.0 www.wallspic.com
+0.0.0.0 ec.europa.eu
+0.0.0.0 www.europa.eu
+0.0.0.0 bleachr.co
+0.0.0.0 www.bleachr.co
+0.0.0.0 songsterr.com/a/wa/account
+0.0.0.0 songsterr.com/a/wa/submit
+0.0.0.0 music.youtube.com
+0.0.0.0 www.music.youtube.com
+0.0.0.0 www.gismart.com
+0.0.0.0 gismart.com
+0.0.0.0 www.stripe.com
+0.0.0.0 stripe.com
+0.0.0.0 firebase.google.com
+0.0.0.0 www.69pixels.com
+0.0.0.0 69pixels.com
+0.0.0.0 www.dribbble.com
+0.0.0.0 dribbble.com
+0.0.0.0 designrush.com
+0.0.0.0 www.designrush.com
+0.0.0.0 clutch.com
+0.0.0.0 www.clutch.com
+0.0.0.0 hcaptcha.com
+0.0.0.0 www.hcaptcha.com
+0.0.0.0 gtarcade.com
+0.0.0.0 www.gtarcade.com
+0.0.0.0 wondershare.com
+0.0.0.0 www.wondershare.com
+0.0.0.0 maps.google.fr
+0.0.0.0 maps.google.com
+0.0.0.0 google.com/intl/
+0.0.0.0 google.com/intl/fr/maps
+0.0.0.0 update.9mod.com
+0.0.0.0 9mod.com
+0.0.0.0 www.9mod.com 
+0.0.0.0 update.apkmody.com
+0.0.0.0 www.apkmody.com
+0.0.0.0 apkmody.com
+0.0.0.0 ciciai.com
+0.0.0.0 www.ciciai.com
+0.0.0.0 akamai.net
+0.0.0.0 www.akamai.net
+0.0.0.0 bytedance.map.fastly.net
+0.0.0.0 fastly.net
+0.0.0.0 www.fastly.net
+0.0.0.0 wikipedia.org
+0.0.0.0 www.wikipedia.org
+0.0.0.0 
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
@@ -305,202 +493,11 @@ Block
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
