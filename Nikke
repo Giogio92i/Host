@@ -284,9 +284,9 @@ Block
 0.0.0.0 www.ciciai.com
 0.0.0.0 akamai.net
 0.0.0.0 www.akamai.net
-0.0.0.0 bytedance.map.fastly.net
-0.0.0.0 fastly.net
-0.0.0.0 www.fastly.net
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
 0.0.0.0 wikipedia.org
 0.0.0.0 www.wikipedia.org
 0.0.0.0 
