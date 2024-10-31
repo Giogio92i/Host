@@ -65,8 +65,8 @@ Block
 0.0.0.0 www.outerplane.game.onstove.com  
 0.0.0.0 onstove.com  
 0.0.0.0 www.onstove.com  
-0.0.0.0 www.nintendo.com  
-0.0.0.0 nintendo.com  
+0.0.0.0   
+0.0.0.0   
 0.0.0.0 www.square-enix.com  
 0.0.0.0 square-enix.com  
 0.0.0.0 accounts.onstove.com  
@@ -282,8 +282,8 @@ Block
 0.0.0.0 apkmody.com
 0.0.0.0 ciciai.com
 0.0.0.0 www.ciciai.com
-0.0.0.0 akamai.net
-0.0.0.0 www.akamai.net
+0.0.0.0 
+0.0.0.0 
 0.0.0.0 t.me
 0.0.0.0 www.t.me
 0.0.0.0 telegram.org
@@ -296,7 +296,7 @@ Block
 0.0.0.0  
 0.0.0.0 
 0.0.0.0  
-0.0.0.0  
+0.0.0.0 
 0.0.0.0 
 0.0.0.0  
 0.0.0.0  
