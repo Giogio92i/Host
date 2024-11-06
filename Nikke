@@ -288,8 +288,10 @@ Block
 0.0.0.0 www.t.me
 0.0.0.0 telegram.org
 0.0.0.0 www.telegram.org
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 orange.fr
+0.0.0.0 www.orange.fr
+0.0.0.0 sosh.fr
+0.0.0.0 www.sosh.fr
 0.0.0.0 antutu.com
 0.0.0.0 www.antutu.com
 0.0.0.0 
@@ -303,7 +305,7 @@ Block
 0.0.0.0  
 0.0.0.0  
 0.0.0.0 
-0.0.0.0  
+0.0.0.0 
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
