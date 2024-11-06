@@ -288,8 +288,8 @@ Block
 0.0.0.0 www.t.me
 0.0.0.0 telegram.org
 0.0.0.0 www.telegram.org
-0.0.0.0 wikipedia.org
-0.0.0.0 www.wikipedia.org
+0.0.0.0 
+0.0.0.0 
 0.0.0.0 antutu.com
 0.0.0.0 www.antutu.com
 0.0.0.0 
@@ -302,7 +302,7 @@ Block
 0.0.0.0 
 0.0.0.0  
 0.0.0.0  
-0.0.0.0  
+0.0.0.0 
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
