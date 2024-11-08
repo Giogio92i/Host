@@ -298,13 +298,13 @@ Block
 0.0.0.0 www.sfr.fr
 0.0.0.0 red-by-sfr.fr
 0.0.0.0 www.red-by-sfr.fr
-0.0.0.0 
-0.0.0.0 
-0.0.0.0  
-0.0.0.0 
-0.0.0.0  
-0.0.0.0  
-0.0.0.0 
+0.0.0.0 www.apple.com
+0.0.0.0 apple.com
+0.0.0.0 appleid.apple.com
+0.0.0.0 appleid.cdn-apple.com
+0.0.0.0 iforgot.apple.com
+0.0.0.0 consultants.apple.com
+0.0.0.0 locate.apple.com
 0.0.0.0 
 0.0.0.0  
 0.0.0.0  
