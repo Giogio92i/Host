@@ -305,17 +305,17 @@ Block
 0.0.0.0 iforgot.apple.com
 0.0.0.0 consultants.apple.com
 0.0.0.0 locate.apple.com
-0.0.0.0 
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
+0.0.0.0 qooapp.io
+0.0.0.0 www.qooapp.io
+0.0.0.0 qoo-app.com
+0.0.0.0 www.qoo-app.com
+0.0.0.0 pay.skrill.com
+0.0.0.0 www.skrill.com
+0.0.0.0 skrill.com
+0.0.0.0 www.mycard520.com
+0.0.0.0 mycard520.com
+0.0.0.0 www.airwallex.com
+0.0.0.0 airwallex.com
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
