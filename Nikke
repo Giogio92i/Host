@@ -318,13 +318,13 @@ Block
 0.0.0.0 
 0.0.0.0 myappterms.com
 0.0.0.0 www.myappterms.com
-0.0.0.0 
-0.0.0.0  
-0.0.0.0 
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
+0.0.0.0 send-anywhere.com
+0.0.0.0 www.send-anywhere.com
+0.0.0.0 global.rakuten.com
+0.0.0.0 www.rakuten.com
+0.0.0.0 rakuten.com
+0.0.0.0 www.rakuten.co.jp
+0.0.0.0 rakuten.co.jp
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
