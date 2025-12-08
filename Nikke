@@ -334,24 +334,24 @@ Block
 0.0.0.0 sonypictures.com
 0.0.0.0 www.sonypictures.com
 0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
+0.0.0.0 khronos.org
+0.0.0.0 www.khronos.org
+0.0.0.0 libcxx.llvm.org
+0.0.0.0 android.com
+0.0.0.0 www.android.com
+0.0.0.0 developer.android.com
+0.0.0.0 freetype.org
+0.0.0.0 www.freetype.org
+0.0.0.0 nghttp2.org
+0.0.0.0 www.nghttp2.org
+0.0.0.0 boringssl.googlesource.com
+0.0.0.0 curl.haxx.se
+0.0.0.0 opus-codec.org
+0.0.0.0 www.opus-codec.org
+0.0.0.0 xiph.org
+0.0.0.0 www.xiph.org
+0.0.0.0 github.io
+0.0.0.0 www.github.io
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
