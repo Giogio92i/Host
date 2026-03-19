@@ -365,12 +365,12 @@ Block
 0.0.0.0 stream-vf.top
 0.0.0.0 www.stream-vf.top
 0.0.0.0 
-0.0.0.0 bailly.app/%C3%A0-propos
-0.0.0.0 bailly.app/à-propos
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
+0.0.0.0 archive.org
+0.0.0.0 www.archive.org
+0.0.0.0 free.fr
+0.0.0.0 www.free.fr
+0.0.0.0 humanites.fr
+0.0.0.0 www.humanites.fr
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
