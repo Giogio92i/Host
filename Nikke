@@ -376,10 +376,10 @@ Block
 0.0.0.0 www.trzone.site
 0.0.0.0 trust.zone
 0.0.0.0 www.trust.zone
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
-0.0.0.0  
+0.0.0.0 trustzone.online
+0.0.0.0 www.trustzone.online
+0.0.0.0 trustvpn.zone
+0.0.0.0 www.trustvpn.zone
 0.0.0.0  
 0.0.0.0  
 0.0.0.0  
